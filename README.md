@@ -1,4 +1,4 @@
-### Hi there! 🖖 My name is Marcelo and I’m currently learning: Full Stack Web Development on <a href="https://www.betrybe.com/" target="_blank"> Trybe </a>
+### Hi there! 🖖 🇧🇷 My name is Marcelo and I’m currently learning: Full Stack Web Development on <a href="https://www.betrybe.com/" target="_blank"> Trybe </a>
 - Engenheiro de Produção / Industrial Engineer
 - Especialista em Gestão e Análise Estratégica de Dados / Specialist in Strategic Data Management
 
