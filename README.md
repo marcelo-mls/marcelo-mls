@@ -20,6 +20,7 @@
     <th>SQL</th>
     <th>Git</th>
     <th>Jest</th>
+    <th>RTL</th>
     <!--
     <th>Node</th>
     <th>Docker</th>
@@ -39,6 +40,7 @@
     <th><img align="center" alt="SQL-server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></th>
     <th><img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></th>
     <th><img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"></th>
+    <th><img height="36" src="https://testing-library.com/img/octopus-128x128.png"></th>
     <!--
     <th><img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></th>
     <th><img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"></th>
