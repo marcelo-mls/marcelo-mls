@@ -3,6 +3,7 @@
 - 🌱  **I’m currently learning: Full Stack Web Development at <a href="https://www.betrybe.com/" target="_blank"> Trybe </a>** 🇧🇷 ``` Estudante de Desenvolvimento Web ``` 
 - 🎓  Specialist in Strategic Data Management 🇧🇷 ``` Especialista em Gestão e Análise Estratégica de Dados ```
 - 🎓  Industrial Engineer 🇧🇷 ``` Engenheiro de Produção ``` 
+- 📪  <a href="mailto:marcelo-mls@hotmail.com">marcelo-mls@hotmail.com</a></li>
 
 <div style="display: inline_block" align="center"><br>
 
@@ -68,9 +69,18 @@
 <br>
  
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/marcelo-mls/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://letterboxd.com/MarceloMLS/" target="_blank"> <img src="https://img.shields.io/badge/-Letterboxd-03A61C?style=for-the-badge&logo=audi&logoColor=white" target="_blank"> </a>
-  <!--   <a href="https://www.instagram.com/marquesmls/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
+  <a href="https://www.linkedin.com/in/marcelo-mls/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://letterboxd.com/MarceloMLS/" target="_blank">
+    <img src="https://img.shields.io/badge/-Letterboxd-03A61C?style=for-the-badge&logo=audi&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:marcelo-mls@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank">
+  </a>
+  <!--   <a href="https://www.instagram.com/marquesmls/" target="_blank">
+<img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+</a> -->
 </div>
 
 <br>
