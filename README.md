@@ -1,24 +1,27 @@
-## Hi there! 🖖 My name is Marcelo !!!
+# Hi there! 🖖 My name is Marcelo !!!
 
-- 🌱  **I’m currently learning: Full Stack Web Development at <a href="https://www.betrybe.com/" target="_blank"> Trybe </a>** 🇧🇷 ``` Estudante de Desenvolvimento Web ``` 
+- 🎓  **I’m Full Stack Web Developer** 🇧🇷 ``` Desenvolvimento Web Full Stack``` 
 - 🎓  Specialist in Strategic Data Management 🇧🇷 ``` Especialista em Gestão e Análise Estratégica de Dados ```
 - 🎓  Industrial Engineer 🇧🇷 ``` Engenheiro de Produção ``` 
-- 📪  <a href="mailto:marcelo-mls@hotmail.com">marcelo-mls@hotmail.com</a></li>
+- 🌱 I’m currently learning TypeScript and Node.js
+- 📪  Email: <a href="mailto:marcelo-mls@hotmail.com">marcelo-mls@hotmail.com</a>
+
+## My Stacks
 
 <div style="display: inline_block" align="center"><br>
 
 <table>
   <tr>
+    <th>JavaScript</th>
     <th>React</th>
     <th>Node</th>
-    <!--
     <th>TypeScript</th>
+    <!--
     <th>Python</th>
     -->
-    <th>JavaScript</th>
     <th>HTML</th>
     <th>CSS</th>
-    <th>SQL</th>
+    <th>MySQL</th>
     <th>Git</th>
     <th>Jest</th>
     <th>RTL</th>
@@ -29,13 +32,13 @@
     -->
   </tr>
   <tr>
+    <th><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></th>
     <th><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></th>
     <th><img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></th>
-    <!--
     <th><img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></th>
+    <!--
     <th><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></th>
     -->
-    <th><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></th>
     <th><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></th>
     <th><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></th>
     <th><img align="center" alt="SQL-server" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></th>
@@ -48,15 +51,11 @@
     <th><img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></th>
     -->
   </tr>
-</table>
-
-      
+</table>  
   
 <!-- Site para buscar os icones: https://devicon.dev/ -->
 
 </div>
-
-
 
 <br>
 
@@ -67,6 +66,8 @@
 </div>
   
 <br>
+
+## Would you like to find me?
  
 <div align="center"> 
   <a href="https://www.linkedin.com/in/marcelo-mls/" target="_blank">
