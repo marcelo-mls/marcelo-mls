@@ -1,6 +1,6 @@
 # Hi there! 🖖 My name is Marcelo !!!
 
-- 🎓  **I’m Full Stack Web Developer** 🇧🇷 ``` Desenvolvimento Web Full Stack``` 
+- 🎓  **I’m Full Stack Web Developer** 🇧🇷 ``` Desenvolvedor Web Full Stack``` 
 - 🎓  Specialist in Strategic Data Management 🇧🇷 ``` Especialista em Gestão e Análise Estratégica de Dados ```
 - 🎓  Industrial Engineer 🇧🇷 ``` Engenheiro de Produção ``` 
 - 🌱  I’m currently learning TypeScript and Node.js ``` Estudando TypeScript and Node.js ```
