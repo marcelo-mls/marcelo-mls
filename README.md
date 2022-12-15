@@ -21,10 +21,11 @@
     -->
     <th>HTML</th>
     <th>CSS</th>
-    <th>MySQL</th>
+    <th>SQL</th>
     <th>Git</th>
     <th>Jest</th>
     <th>Docker</th>
+    <th>MongoDB</th>
     <!--
     <th>RTL</th>
     <th>Redux</th>
@@ -45,6 +46,7 @@
     <th><img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></th>
     <th><img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"></th>
     <th><img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"></th>
+    <th><img align="center" alt="Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></th>
     <!--
     <th><img height="36" src="https://testing-library.com/img/octopus-128x128.png"></th>
     <th><img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></th>
