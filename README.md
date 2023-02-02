@@ -3,7 +3,7 @@
 - 🎓  **I’m Full Stack Web Developer** 🇧🇷 ``` Desenvolvedor Web Full Stack``` 
 - 🎓  Specialist in Strategic Data Management 🇧🇷 ``` Especialista em Gestão e Análise Estratégica de Dados ```
 - 🎓  Industrial Engineer 🇧🇷 ``` Engenheiro de Produção ``` 
-- 🌱  I’m currently learning TypeScript and Node.js ``` Estudando TypeScript and Node.js ```
+- 🌱  I’m currently learning Python ``` Estudando Python ```
 - 📪  Email: <a href="mailto:marcelo-mls@hotmail.com">marcelo-mls@hotmail.com</a>
 
 ## My Stacks
