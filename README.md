@@ -1,9 +1,9 @@
 # Hi there! 🖖 My name is Marcelo !!!
 
-- 🎓  **I’m Full Stack Web Developer** 🇧🇷 ``` Desenvolvedor Web Full Stack``` 
-- 🎓  Specialist in Strategic Data Management 🇧🇷 ``` Especialista em Gestão e Análise Estratégica de Dados ```
-- 🎓  Industrial Engineer 🇧🇷 ``` Engenheiro de Produção ``` 
-- 🌱  I’m currently learning Python ``` Estudando Python ```
+- 🎓  **I’m Full Stack Web Developer** - 🇧🇷 ``` Desenvolvedor Web Full Stack``` 
+- 🎓  Specialist in Strategic Data Management - 🇧🇷 ``` Especialista em Gestão e Análise Estratégica de Dados ```
+- 🎓  Industrial Engineer - 🇧🇷 ``` Engenheiro de Produção ``` 
+- 🌱  I’m currently learning Python - 🇧🇷 ``` Estudando Python ```
 - 📪  Email: <a href="mailto:marcelo-mls@hotmail.com">marcelo-mls@hotmail.com</a>
 
 ## My Stacks
@@ -12,7 +12,7 @@
 <br>
 
 <table>
-  <tr height="60">
+  <tr>
     <th width="125px">JavaScript</th>
     <th width="125px">React</th>
     <th width="125px">Node</th>
@@ -21,35 +21,35 @@
     <th width="125px">CSS</th>
     <th width="125px">Python</th>
    </tr>
-  <tr height="60">
-    <th><img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></th>
-    <th><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></th>
-    <th><img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></th>
-    <th><img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></th>
-    <th><img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></th>
-    <th><img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></th>
-    <th><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></th>
+  <tr>
+    <th><img align="center" alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></th>
+    <th><img align="center" alt="React" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></th>
+    <th><img align="center" alt="Node" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></th>
+    <th><img align="center" alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"></th>
+    <th><img align="center" alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></th>
+    <th><img align="center" alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></th>
+    <th><img align="center" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></th>
   </tr>
-  <tr height="60">
+  <tr>
     <th>SQL</th>
     <th>Git</th>
     <th>Jest</th>
-    <th>React Testing Library</th>
+    <th>RTL</th>
     <th>Docker</th>
     <th>MongoDB</th>
-    <th>Django Rest Framework</th>
+    <th>Django RF</th>
     <!--
     <th>Redux</th>
     -->
   </tr>
-  <tr height="60"> 
-    <th><img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></th>
-    <th><img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></th>
-    <th><img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"></th>
-    <th><img height="36" src="https://testing-library.com/img/octopus-128x128.png"></th>
-    <th><img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"></th>
-    <th><img align="center" alt="Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></th>
-    <th><img align="center" alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"></th>
+  <tr> 
+    <th><img align="center" alt="SQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></th>
+    <th><img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></th>
+    <th><img align="center" alt="Jest" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"></th>
+    <th><img height="40" src="https://testing-library.com/img/octopus-128x128.png"></th>
+    <th><img align="center" alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"></th>
+    <th><img align="center" alt="Mongo" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></th>
+    <th><img align="center" alt="Django" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"></th>
     <!--
     <th><img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></th>
     -->
