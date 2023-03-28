@@ -1,10 +1,12 @@
-# Hi there! 🖖 My name is Marcelo !!!
+# Hi there! 🖖 My name is Marcelo Marques!
 
-- 🎓  **I’m Full Stack Web Developer** 🇧🇷 ``` Desenvolvedor Web Full Stack``` 
-- 🎓  Specialist in Strategic Data Management 🇧🇷 ``` Especialista em Gestão e Análise Estratégica de Dados ```
-- 🎓  Industrial Engineer 🇧🇷 ``` Engenheiro de Produção ``` 
-- 🌱  I’m currently learning Python ``` Estudando Python ```
+- 🎓  **I’m Full Stack Web Developer** - 🇧🇷 ``` Desenvolvedor Web Full Stack``` 
+- 🎓  Specialist in Strategic Data Management - 🇧🇷 ``` Especialista em Gestão e Análise Estratégica de Dados ```
+- 🎓  Industrial Engineer - 🇧🇷 ``` Engenheiro de Produção ``` 
+- 🌱  I’m currently learning Python and Django - 🇧🇷 ``` Estudando Python e Django ```
 - 📪  Email: <a href="mailto:marcelo-mls@hotmail.com">marcelo-mls@hotmail.com</a>
+
+<br>
 
 ## My Stacks
 
