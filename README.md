@@ -13,13 +13,13 @@
 
 <table>
   <tr>
-    <th width="125px">JavaScript</th>
-    <th width="125px">React</th>
-    <th width="125px">Node</th>
-    <th width="125px">TypeScript</th>
-    <th width="125px">HTML</th>
-    <th width="125px">CSS</th>
-    <th width="125px">Python</th>
+    <th width="110px">JavaScript</th>
+    <th width="110px">React</th>
+    <th width="110px">Node</th>
+    <th width="110px">TypeScript</th>
+    <th width="110px">HTML</th>
+    <th width="110px">CSS</th>
+    <th width="110px">Python</th>
    </tr>
   <tr>
     <th><img align="center" alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></th>
