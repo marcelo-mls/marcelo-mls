@@ -67,7 +67,9 @@
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/marcelo-mls/" target="_blank"> 
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//api?username=marcelo-mls&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <!--
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//api?username=marcelo-mls&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   -->
 
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//api/top-langs/?username=marcelo-mls&layout=compact&langs_count=7&theme=dark"/>   
   </a>
