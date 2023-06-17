@@ -4,6 +4,7 @@
 - 🎓  Specialist in Strategic Data Management - 🇧🇷 ``` Especialista em Gestão e Análise Estratégica de Dados ```
 - 🎓  Industrial Engineer - 🇧🇷 ``` Engenheiro de Produção ``` 
 - 🌱  I'm currently improving my knowledge in Python - 🇧🇷 ``` Estou aprofundando meus conhecimentos em Python ```
+- 💼  As I have a hybrid profile I am looking for opportunities for both software engineering and data engineering - 🇧🇷 ``` Em busca de oportunidades em Engenharia de Software ou Dados ```
 - 📪  Email: <a href="mailto:marcelo-mls@hotmail.com">marcelo-mls@hotmail.com</a>
 
 ## My Stacks
