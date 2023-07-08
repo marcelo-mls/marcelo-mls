@@ -1,11 +1,12 @@
-# Hi there! 🖖 My name is Marcelo !!!
+# Hi there! 🖖 My name is `Marcelo` !!!
+### 🎥 🐈 🐕 ☕ 🍺
 
 - 💼  **Tech Solutions Engineer** at <a href="https://www.limaconsulting.com/">Lima Consulting Group</a>
 
 - 🎓  Full Stack Web Developer - 🇧🇷 ```Desenvolvedor Web Full Stack``` 
 - 🎓  Specialist in Strategic Data Management - 🇧🇷 ```Especialista em Gestão e Análise Estratégica de Dados```
 - 🎓  Industrial Engineer - 🇧🇷 ```Engenheiro de Produção``` 
-- 🌱  I'm currently improving my knowledge in Python - 🇧🇷 ```Estou aprofundando meus conhecimentos em Python```
+- 🌱  I'm currently improving my Python skills - 🇧🇷 ```Estou aprofundando meus conhecimentos em Python```
 - 📪  Email: <a href="mailto:marcelo-mls@hotmail.com">marcelo-mls@hotmail.com</a>
 
 ## My Stacks
@@ -100,4 +101,4 @@
 
 <br>
   
-<h3 align="center"> ¯\_(ツ)_/¯ </h3>
+<h3 align="center"> ☭ ¯\_(ツ)_/¯ </h3>
