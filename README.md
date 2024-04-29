@@ -3,10 +3,10 @@
 
 - 💼  **Tech Solutions Engineer** at <a href="https://www.limaconsulting.com/">Lima Consulting Group</a>
 
-- 🎓  Full Stack Web Developer - 🇧🇷 ```Desenvolvedor Web Full Stack``` 
-- 🎓  Specialist in Strategic Data Management - 🇧🇷 ```Especialista em Gestão e Análise Estratégica de Dados```
-- 🎓  Industrial Engineer - 🇧🇷 ```Engenheiro de Produção``` 
-- 🌱  I'm currently improving my Python skills - 🇧🇷 ```Estou aprofundando meus conhecimentos em Python```
+- 🎓  Software engineer / Full Stack Web Developer
+- 🎓  Specialist in Strategic Data Management
+- 🎓  Industrial Engineer
+- 🌱  I'm currently improving my Python skills
 - 📪  Email: <a href="mailto:marcelo-mls@hotmail.com">marcelo-mls@hotmail.com</a>
 
 ## My Stacks
